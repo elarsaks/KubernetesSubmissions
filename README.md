@@ -1,5 +1,5 @@
 # Kubernetes Submissions
-<img src="https://repository-images.githubusercontent.com/1082798911/47eab36d-751a-4ce9-9c7c-b8dfdbdfa8c7" width="100%" alt="Course Banner"/>
+<img src="https://raw.githubusercontent.com/elarsaks/KubernetesSubmissions/refs/heads/master/docs/harbor.png" width="100%" alt="Repo Banner"/>
 
 This repository contains my submissions for the [**DevOps with Kubernetes** MOOC](https://courses.mooc.fi/org/uh-cs/courses/devops-with-kubernetes) offered by the University of Helsinki.  
 
